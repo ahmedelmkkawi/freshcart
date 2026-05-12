@@ -1,0 +1,1 @@
+import{hb as t}from"./chunk-NUNCLI5X.js";var i=class r{transform(e){return`onSale : ${e}`}static \u0275fac=function(n){return new(n||r)};static \u0275pipe=t({name:"onSale",type:r,pure:!0})};export{i as a};
